@@ -54,14 +54,14 @@ digital-literacy-portfolio/
 ### ✅ Task 1 — Digital Literacy Presentation
 Created a 10-slide presentation on **"Introduction to Digital Literacy"** using **Canva**. Topics covered include digital skills, online identity, cybersecurity basics, fake news, and digital footprint.
 
-🔗 **Canva Presentation Link:** [View Presentation](https://www.canva.com) *(Update with actual link)*
+🔗 **Canva Presentation Link:** [View Presentation](https://www.canva.com/design/DAHFHl80pgU/JC3OMStGJwaiOJ5TBWo7rA/edit?utm_content=DAHFHl80pgU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
 ### ✅ Task 2 — Professional Online Portfolio
 Set up and optimized professional profiles on:
-- 🔗 **LinkedIn:** [linkedin.com/in/jay-prajapati](https://www.linkedin.com/in/jay-prajapati) *(Update with actual link)*
-- 🐙 **GitHub:** [github.com/jayprajapati](https://github.com/jayprajapati) *(Update with actual link)*
+- 🔗 **LinkedIn:** [linkedin.com/in/jay-prajapati](https://www.linkedin.com/in/jay-prajapati-69884b377/) 
+- 🐙 **GitHub:** [github.com/jayprajapati](https://github.com/Jay2707/) 
 
 ---
 
