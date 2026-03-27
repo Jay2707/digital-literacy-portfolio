@@ -13,7 +13,6 @@
 | **Branch** | B.Tech CSE [AI-ML] — First Year |
 | **Course Code** | CSE0001 |
 | **Course Title** | Digital Literacy |
-| **Credits** | 1 Credit \| Pass / Fail (Non-CGPA) |
 | **Academic Year** | 2025–2026 |
 
 ---
