@@ -68,6 +68,8 @@ Set up and optimized professional profiles on:
 ### ✅ Task 3 — Exploring Academic & Professional Platforms
 Explored and documented experience with: **Google Scholar**, **Coursera**, **NPTEL**, and **Stack Overflow** — understanding their role in lifelong digital learning.
 
+🔗 Google Form Link: https://forms.gle/gsgZVYowvBEqzRDW9
+
 ---
 
 ### ✅ Task 4 — Email Etiquette & Professional Communication
