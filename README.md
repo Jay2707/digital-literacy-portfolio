@@ -85,7 +85,7 @@ Researched the **2016 Bangladesh Bank Cyber Heist** — one of the largest cyber
 ## 📄 Full Report
 
 The complete written project report is available here:  
-📥 [`report/Project_Report.docx`](report/Project_Report.docx)
+📥 [`report/Project_Report.docx`](./report/Project_Report.docx)
 
 ---
 
